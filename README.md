@@ -1,7 +1,7 @@
 # react-native-text-input-mask
 Text input mask for React Native on iOS and Android.
 
-<a href="https://www.npmjs.org/package/react-native-text-input-mask">
+<a href="https://www.npmjs.org/package/@glyw/react-native-text-input-mask">
   <img src="https://badge.fury.io/js/react-native-text-input-mask.svg" alt="NPM package version." />
 </a>
 <a href="https://github.com/okanfidan/react-native-text-input-mask/blob/master/LICENSE">
@@ -16,11 +16,11 @@ Text input mask for React Native on iOS and Android.
 ## Setup
 
 ```bash
-npm install --save react-native-text-input-mask
+npm install --save @glyw/react-native-text-input-mask
 
 # --- or ---
 
-yarn add react-native-text-input-mask
+yarn add @glyw/react-native-text-input-mask
 ```
 
 # Installation
