@@ -17,7 +17,7 @@ To fix this issue try these steps:
   • Rebuild and restart the app.
   • Run the packager with \`--clearCache\` flag.
   • If happening on iOS, run \`pod install\` in the \`ios\` directory and then rebuild and re-run the app.
-  • If this happens while testing with Jest, make sure to follow instructions in https://github.com/react-native-text-input-mask/react-native-text-input-mask#testing
+  • If this happens while testing with Jest, make sure to follow instructions in https://github.com/okanfidan/react-native-text-input-mask#testing
 `);
 }
 
